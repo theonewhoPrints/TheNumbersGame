@@ -1,0 +1,7 @@
+File: data/slide/slide-7.txt
+ 3  2  1
+ .  5  4
+ 6  8  7
+Total configs: 483841
+Unique configs: 181440
+No solution

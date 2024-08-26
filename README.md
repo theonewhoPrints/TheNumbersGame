@@ -1,1 +1,1 @@
-go to slidesgamegave < src < puzzles to view java code. 
+go to slidesgame < src < puzzles to view java code. 
